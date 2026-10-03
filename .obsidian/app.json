@@ -1,5 +1,6 @@
 {
   "strictLineBreaks": true,
   "showLineNumber": false,
-  "showIndentGuide": true
+  "showIndentGuide": true,
+  "vimMode": false
 }
